@@ -1,5 +1,8 @@
-# leetcode
+# Coding Problem Solutions
 
-This repository will mainly be used to track my leetcode progress
+This repository will mainly be used to post my solutions to different practise problems. Generally the problems are found in the following sites:
 
-This branch is for commits
+codefights
+..hac
+
+
